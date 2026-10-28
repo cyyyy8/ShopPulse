@@ -1,0 +1,181 @@
+ID,Date,Item,Category,Quantity,Unit Price (PHP),Total (PHP)
+1,2026-01-01,Keyboard,Accessories,1,550,550
+2,2026-01-06,Lamination,Services,2,35,70
+3,2026-01-08,Lamination,Services,3,35,105
+4,2026-01-09,Headset,Accessories,3,690,2070
+5,2026-01-10,Photocopy,Services,3,3,9
+6,2026-01-10,USB Drive,Accessories,1,280,280
+7,2026-01-10,Computer Rental,Rental,2,25,50
+8,2026-01-10,Photocopy,Services,2,3,6
+9,2026-01-15,Typing,Services,1,45,45
+10,2026-01-15,Keyboard,Accessories,2,550,1100
+11,2026-01-15,Computer Rental,Rental,2,25,50
+12,2026-01-15,Printing,Services,4,8,32
+13,2026-01-17,Computer Rental,Rental,2,25,50
+14,2026-01-17,Lamination,Services,6,35,210
+15,2026-01-21,Lamination,Services,1,35,35
+16,2026-01-21,Headset,Accessories,2,690,1380
+17,2026-01-22,Headset,Accessories,1,690,690
+18,2026-01-23,Typing,Services,1,45,45
+19,2026-01-24,Mouse,Accessories,1,320,320
+20,2026-01-24,Photocopy,Services,5,3,15
+21,2026-01-24,Lamination,Services,2,35,70
+22,2026-01-24,Keyboard,Accessories,2,550,1100
+23,2026-01-26,Keyboard,Accessories,1,550,550
+24,2026-01-27,Keyboard,Accessories,3,550,1650
+25,2026-01-28,Photocopy,Services,6,3,18
+26,2026-01-28,Photocopy,Services,6,3,18
+27,2026-01-28,Printing,Services,6,8,48
+28,2026-01-29,USB Drive,Accessories,2,280,560
+29,2026-01-29,Photocopy,Services,1,3,3
+30,2026-01-31,Lamination,Services,1,35,35
+31,2026-02-02,Photocopy,Services,5,3,15
+32,2026-02-03,Typing,Services,3,45,135
+33,2026-02-03,Lamination,Services,2,35,70
+34,2026-02-04,Lamination,Services,6,35,210
+35,2026-02-05,Mouse,Accessories,3,320,960
+36,2026-02-06,Keyboard,Accessories,1,550,550
+37,2026-02-06,Lamination,Services,2,35,70
+38,2026-02-07,Photocopy,Services,2,3,6
+39,2026-02-07,USB Drive,Accessories,1,280,280
+40,2026-02-07,Printing,Services,3,8,24
+41,2026-02-09,Photocopy,Services,5,3,15
+42,2026-02-11,Keyboard,Accessories,1,550,550
+43,2026-02-11,Keyboard,Accessories,2,550,1100
+44,2026-02-12,Headset,Accessories,1,690,690
+45,2026-02-12,Printing,Services,4,8,32
+46,2026-02-13,Lamination,Services,5,35,175
+47,2026-02-13,Computer Rental,Rental,3,25,75
+48,2026-02-14,Typing,Services,6,45,270
+49,2026-02-14,Keyboard,Accessories,2,550,1100
+50,2026-02-15,Computer Rental,Rental,2,25,50
+51,2026-02-16,Headset,Accessories,1,690,690
+52,2026-02-21,Mouse,Accessories,3,320,960
+53,2026-02-22,Keyboard,Accessories,2,550,1100
+54,2026-02-22,Computer Rental,Rental,2,25,50
+55,2026-02-22,Headset,Accessories,3,690,2070
+56,2026-02-23,Computer Rental,Rental,1,25,25
+57,2026-02-23,Mouse,Accessories,2,320,640
+58,2026-02-23,USB Drive,Accessories,1,280,280
+59,2026-02-25,USB Drive,Accessories,1,280,280
+60,2026-02-25,USB Drive,Accessories,1,280,280
+61,2026-02-25,Lamination,Services,5,35,175
+62,2026-02-26,Computer Rental,Rental,3,25,75
+63,2026-03-02,Computer Rental,Rental,2,25,50
+64,2026-03-04,Mouse,Accessories,1,320,320
+65,2026-03-05,Headset,Accessories,1,690,690
+66,2026-03-05,Lamination,Services,3,35,105
+67,2026-03-06,Photocopy,Services,4,3,12
+68,2026-03-07,Computer Rental,Rental,2,25,50
+69,2026-03-09,Mouse,Accessories,3,320,960
+70,2026-03-10,Photocopy,Services,5,3,15
+71,2026-03-11,Computer Rental,Rental,3,25,75
+72,2026-03-13,Mouse,Accessories,1,320,320
+73,2026-03-13,Headset,Accessories,1,690,690
+74,2026-03-14,Mouse,Accessories,3,320,960
+75,2026-03-14,Keyboard,Accessories,2,550,1100
+76,2026-03-15,Printing,Services,2,8,16
+77,2026-03-16,Photocopy,Services,1,3,3
+78,2026-03-17,Keyboard,Accessories,2,550,1100
+79,2026-03-17,Headset,Accessories,3,690,2070
+80,2026-03-17,Printing,Services,1,8,8
+81,2026-03-18,Computer Rental,Rental,3,25,75
+82,2026-03-19,USB Drive,Accessories,2,280,560
+83,2026-03-20,Headset,Accessories,3,690,2070
+84,2026-03-21,Headset,Accessories,3,690,2070
+85,2026-03-21,USB Drive,Accessories,3,280,840
+86,2026-03-22,Keyboard,Accessories,2,550,1100
+87,2026-03-23,Keyboard,Accessories,2,550,1100
+88,2026-03-27,Photocopy,Services,6,3,18
+89,2026-03-28,Keyboard,Accessories,1,550,550
+90,2026-03-28,Printing,Services,2,8,16
+91,2026-03-29,Keyboard,Accessories,1,550,550
+92,2026-04-03,Mouse,Accessories,3,320,960
+93,2026-04-03,Computer Rental,Rental,3,25,75
+94,2026-04-05,USB Drive,Accessories,3,280,840
+95,2026-04-06,Printing,Services,1,8,8
+96,2026-04-07,Headset,Accessories,1,690,690
+97,2026-04-08,Computer Rental,Rental,2,25,50
+98,2026-04-08,USB Drive,Accessories,1,280,280
+99,2026-04-10,Mouse,Accessories,3,320,960
+100,2026-04-15,Photocopy,Services,3,3,9
+101,2026-04-16,USB Drive,Accessories,3,280,840
+102,2026-04-17,Printing,Services,4,8,32
+103,2026-04-18,Headset,Accessories,3,690,2070
+104,2026-04-18,Printing,Services,2,8,16
+105,2026-04-19,Photocopy,Services,4,3,12
+106,2026-04-19,Printing,Services,1,8,8
+107,2026-04-19,Headset,Accessories,3,690,2070
+108,2026-04-20,Computer Rental,Rental,1,25,25
+109,2026-04-21,Typing,Services,2,45,90
+110,2026-04-21,Mouse,Accessories,1,320,320
+111,2026-04-24,Printing,Services,2,8,16
+112,2026-04-25,Printing,Services,2,8,16
+113,2026-04-26,USB Drive,Accessories,1,280,280
+114,2026-04-27,Printing,Services,4,8,32
+115,2026-04-28,USB Drive,Accessories,1,280,280
+116,2026-04-30,Computer Rental,Rental,1,25,25
+117,2026-05-04,Headset,Accessories,3,690,2070
+118,2026-05-06,Keyboard,Accessories,2,550,1100
+119,2026-05-06,Printing,Services,6,8,48
+120,2026-05-07,Typing,Services,3,45,135
+121,2026-05-08,Keyboard,Accessories,1,550,550
+122,2026-05-08,Keyboard,Accessories,1,550,550
+123,2026-05-09,Mouse,Accessories,1,320,320
+124,2026-05-11,Keyboard,Accessories,3,550,1650
+125,2026-05-12,Keyboard,Accessories,2,550,1100
+126,2026-05-16,Lamination,Services,6,35,210
+127,2026-05-17,USB Drive,Accessories,2,280,560
+128,2026-05-18,Keyboard,Accessories,3,550,1650
+129,2026-05-18,Typing,Services,1,45,45
+130,2026-05-19,Photocopy,Services,1,3,3
+131,2026-05-20,Lamination,Services,6,35,210
+132,2026-05-20,Computer Rental,Rental,1,25,25
+133,2026-05-20,Computer Rental,Rental,2,25,50
+134,2026-05-21,Printing,Services,3,8,24
+135,2026-05-21,Typing,Services,3,45,135
+136,2026-05-23,Lamination,Services,5,35,175
+137,2026-05-24,Computer Rental,Rental,1,25,25
+138,2026-05-26,USB Drive,Accessories,3,280,840
+139,2026-05-26,Keyboard,Accessories,1,550,550
+140,2026-05-28,Headset,Accessories,1,690,690
+141,2026-05-30,Photocopy,Services,1,3,3
+142,2026-05-30,Photocopy,Services,5,3,15
+143,2026-05-31,Mouse,Accessories,3,320,960
+144,2026-05-31,Keyboard,Accessories,3,550,1650
+145,2026-06-01,USB Drive,Accessories,2,280,560
+146,2026-06-01,Photocopy,Services,4,3,12
+147,2026-06-02,Computer Rental,Rental,3,25,75
+148,2026-06-04,Photocopy,Services,3,3,9
+149,2026-06-05,Typing,Services,5,45,225
+150,2026-06-07,Keyboard,Accessories,1,550,550
+151,2026-06-08,Headset,Accessories,1,690,690
+152,2026-06-08,Headset,Accessories,1,690,690
+153,2026-06-08,Typing,Services,5,45,225
+154,2026-06-08,Printing,Services,5,8,40
+155,2026-06-11,Keyboard,Accessories,2,550,1100
+156,2026-06-12,Printing,Services,2,8,16
+157,2026-06-13,Lamination,Services,3,35,105
+158,2026-06-13,Keyboard,Accessories,2,550,1100
+159,2026-06-14,Lamination,Services,2,35,70
+160,2026-06-14,Printing,Services,2,8,16
+161,2026-06-15,Typing,Services,3,45,135
+162,2026-06-15,Computer Rental,Rental,3,25,75
+163,2026-06-17,Headset,Accessories,3,690,2070
+164,2026-06-18,Photocopy,Services,6,3,18
+165,2026-06-19,Photocopy,Services,3,3,9
+166,2026-06-19,Keyboard,Accessories,1,550,550
+167,2026-06-19,Lamination,Services,3,35,105
+168,2026-06-20,Keyboard,Accessories,2,550,1100
+169,2026-06-21,USB Drive,Accessories,2,280,560
+170,2026-06-21,USB Drive,Accessories,3,280,840
+171,2026-06-21,Computer Rental,Rental,1,25,25
+172,2026-06-22,Computer Rental,Rental,1,25,25
+173,2026-06-22,Headset,Accessories,3,690,2070
+174,2026-06-22,Mouse,Accessories,2,320,640
+175,2026-06-23,Mouse,Accessories,2,320,640
+176,2026-06-24,Printing,Services,2,8,16
+177,2026-06-25,Printing,Services,2,8,16
+178,2026-06-26,Photocopy,Services,4,3,12
+179,2026-06-27,Typing,Services,5,45,225
+180,2026-06-29,USB Drive,Accessories,2,280,560
